@@ -40,3 +40,8 @@ chatbot-model-app/
 ├──chatbot_model.pkl
 ├──vectorizer.pkl
 └── README.md # Project documentation
+
+
+
+
+💡 “AI is not replacing humans — it’s helping us work smarter.”
